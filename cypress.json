@@ -1,1 +1,4 @@
-{}
+{
+    "baseUrl": "http://lms.polinema.ac.id/login/index.php",
+    "chromeWebSecurity": false
+}

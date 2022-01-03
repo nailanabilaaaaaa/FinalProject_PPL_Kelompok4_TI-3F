@@ -1,4 +1,4 @@
-describe('Login', function (){
+describe('Testing Grade Assignment', function (){
     beforeEach(() => {        
         cy.visit('http://lms.polinema.ac.id/login/index.php')
         //halaman Login
